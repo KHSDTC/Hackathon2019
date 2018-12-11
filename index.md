@@ -34,7 +34,7 @@ The Hackathon organisers will provide a set of computational biology problems fo
 
 - __Date__: 14th of January, 2019.
 - __Where__: Waterloo Campus, James Clerk Maxwell Building B.16.
-- __When__: 5-11 PM.
+- __When__: 5-9 PM
 
 The Hackathon session will start at 6PM, but everyone is wellcome to join earlier from 5PM to have a chat with fellow coders! During the evening we will have refreshements provided by HSDTC.
 
