@@ -4,7 +4,7 @@ layout: default
 
 # King's College London Health Science DTC
 
-# Python Hackathon session 2019
+# Python Hackathon Winter Session 2019
 
 Everyone is invited for a first King's College London HSDTC Python Hackathon session. The event is intended for everyone with interest in computational and quantitative methods and how they can be applied in solving biological problems.
 
